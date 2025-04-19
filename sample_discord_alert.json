@@ -1,0 +1,9 @@
+{
+  "content": "@elite",
+  "embeds": [{
+    "title": "Coffret Pokémon Ultra Premium",
+    "description": "119 € - Ultra Rare",
+    "url": "https://www.leboncoin.fr/annonce-test",
+    "image": { "url": "https://image.test/pokemon.jpg" }
+  }]
+}

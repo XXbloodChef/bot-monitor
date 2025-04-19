@@ -1,0 +1,14 @@
+# Exemple de filtres par salon
+pokemon-coffret:
+  platform: leboncoin
+  keywords: ["coffret premium", "ultra premium"]
+  price_max: 120
+  ping: "@elite"
+
+nike-tech:
+  platform: vinted
+  keywords: ["tech fleece", "nike pro"]
+  price_max: 85
+  sizes: ["L", "XL"]
+  brands: ["Nike"]
+  ping: "@snipe-l"

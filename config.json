@@ -1,0 +1,8 @@
+{
+  "platforms": ["vinted", "leboncoin", "amazon"],
+  "mode": "production",
+  "scan_interval": 0,
+  "headless": true,
+  "log_level": "INFO",
+  "multi_bot": true
+}
